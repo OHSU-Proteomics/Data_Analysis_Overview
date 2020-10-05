@@ -109,7 +109,7 @@ The final step in some experiments involves adding annotations and investigating
 
 _Slide 11_
 
-If the proteins and peptides that need to be studied are know it’s often possible to do a targeted analysis. These experiment often require an initial shotgun run prior to identify good candidate ions for targeted analysis. Once the initial experiment is complete the list of ions can be used to focus the mass spectrometer’s time using an inclusion list or SRM/MRM experiment. These types of experiment allow of detection and quantitation of the ion at lower levels than would be possible with traditional experiments. Open source Skyline from University of Washington is used for targeted proteomics followed by other software.
+If the proteins and peptides that need to be studied are known it’s often possible to do a targeted analysis. These experiment often require an initial shotgun run prior to identify good candidate ions for targeted analysis. Once the initial experiment is complete the list of ions can be used to focus the mass spectrometer’s time using an inclusion list or SRM/MRM experiment. These types of experiment allow of detection and quantitation of the ion at lower levels than would be possible with traditional experiments. Open source Skyline from University of Washington is used for targeted proteomics followed by other software.
 
 ***
 
